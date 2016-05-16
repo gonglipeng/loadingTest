@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">好车分期</string>
+    <string-array name="childvalues">
+        <item>琥珀色</item>
+    </string-array>
+    <string-array name="childvalues1">
+        <item>雪佛兰赛欧3 1.3L AMT理想版</item>
+    </string-array>
+    <string-array name="childvalues2">
+        <item>0首付</item>
+        <item>10%首付</item>
+        <item>20%首付</item>
+    </string-array>
+    <string-array name="childvalues3">
+        <item>6666元 x 12期</item>
+        <item>6666元 x 12期</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
